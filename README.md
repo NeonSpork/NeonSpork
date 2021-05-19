@@ -1,4 +1,10 @@
-### Hi there 👋
+### :boom: NeonSpork :boom:
+
+:fire: Father  
+:fire: Doctor  
+:fire: Gamer  
+:fire: Developer  
+
 
 <!--
 **NeonSpork/NeonSpork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
