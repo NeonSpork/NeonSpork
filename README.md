@@ -5,7 +5,8 @@
 :fire: Gamer  
 :fire: Developer  
 
-coming soon: https://hang1010.com (a tech/code/nerd/stuff blog)
+in development: https://tidy-todo.com (a minimalist task tracking application)
+in the pipeline: https://hang1010.com (a tech/code/nerd/stuff blog)
 <!--
 **NeonSpork/NeonSpork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
