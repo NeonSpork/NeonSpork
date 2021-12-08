@@ -1,6 +1,6 @@
 ### :boom: NeonSpork :boom:
 
-:fire: Father :fire: Doctor :fire: Developer  
+:fire: Father :fire: Doctor :fire: Developer :fire:  
 
 in development: https://tidy-todo.com (a minimalist task tracking application)  
 in the pipeline: https://hang1010.com (a tech/code/nerd/stuff blog)  
